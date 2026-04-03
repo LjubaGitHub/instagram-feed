@@ -1,39 +1,32 @@
 name: Refresh Instagram Feed
 
 on:
-  # Runs daily at 03:00 UTC — change the time here if needed
   schedule:
     - cron: '0 3 * * *'
-  # Also allows manual trigger from GitHub Actions tab
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit feed.json back to the repo
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm ci
-
       - name: Refresh Instagram feed
         env:
-          INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
-          BUNNY_API_KEY:    ${{ secrets.BUNNY_API_KEY }}
+          INSTAGRAM_TOKEN:    ${{ secrets.INSTAGRAM_TOKEN }}
+          BUNNY_API_KEY:      ${{ secrets.BUNNY_API_KEY }}
           BUNNY_STORAGE_ZONE: ${{ secrets.BUNNY_STORAGE_ZONE }}
-          BUNNY_CDN_URL:    ${{ secrets.BUNNY_CDN_URL }}
-          BUNNY_DOMAIN:     ${{ secrets.BUNNY_DOMAIN }}
-          NOTIFY_EMAIL:     ${{ secrets.NOTIFY_EMAIL }}
-          RESEND_API_KEY:   ${{ secrets.RESEND_API_KEY }}
+          BUNNY_CDN_URL:      ${{ secrets.BUNNY_CDN_URL }}
+          BUNNY_DOMAIN:       ${{ secrets.BUNNY_DOMAIN }}
+          NOTIFY_EMAIL:       ${{ secrets.NOTIFY_EMAIL }}
+          RESEND_API_KEY:     ${{ secrets.RESEND_API_KEY }}
         run: node refresh.js
 
       - name: Commit updated feed.json
@@ -41,6 +34,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/feed.json
-          # Only commit if the file actually changed
           git diff --cached --quiet || git commit -m "chore: refresh Instagram feed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
