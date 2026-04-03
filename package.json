@@ -1,0 +1,12 @@
+{
+  "name": "nordinahome-instagram-feed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetches Instagram posts, uploads to BunnyCDN, writes feed.json for Shopify",
+  "scripts": {
+    "refresh": "node refresh.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
