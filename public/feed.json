@@ -1,6 +1,32 @@
 {
   "posts": [
     {
+      "id": "18644721325033762",
+      "username": "nordinahomeie",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfCx-mCCuZY/",
+      "timestamp": "2026-10-28T15:43:19+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_text": "A tidy choice for a home desk, even when the laptop is set up at the kitchen table. By the way, Laguna is included in our Black Friday Sale. 🖤 Warm brown upholstery and polished chrome give this office chair a clean, considered contrast. Laguna pairs vegan leather with ergonomic lumbar support, adjustable height and smooth 360° movement, so the desk feels more comfortable through the day. Take a closer look at nordinahome.ie",
+      "caption_tags": [
+        "NordinaHome",
+        "OfficeChair",
+        "HomeOffice",
+        "VeganLeather",
+        "WorkspaceDesign",
+        "ChromeDetails"
+      ],
+      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/869573680_17954495862326494_3456119128995336162_n.jpg",
+      "cdn_thumbnail": null,
+      "children": [
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/869573680_17954495862326494_3456119128995336162_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/867967666_17954495943326494_4759529690785557158_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/874399947_17954496024326494_2602756550792893490_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/867483931_17954496054326494_7483596048079021921_n.jpg"
+      ]
+    },
+    {
       "id": "17921956740174915",
       "username": "nordinahomeie",
       "media_type": "IMAGE",
@@ -1414,29 +1440,8 @@
       "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/481248557_122140683098561299_8947739506392243416_n.jpg",
       "cdn_thumbnail": null,
       "children": []
-    },
-    {
-      "id": "18011705858513618",
-      "username": "nordinahomeie",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DGz9WVkMljS/",
-      "timestamp": "2025-03-05T09:00:24+0000",
-      "like_count": 5,
-      "comments_count": 0,
-      "caption_text": "Brown is always elegant and a great colour choice for any decor. That's why we recommend the Wayner dining chair as a new addition to your home and dining area. 🤩\n\nIt is also available in black, white and grey. Find your favourite colour and order today! ✨📲",
-      "caption_tags": [
-        "nordinahome",
-        "nordinahomeireland",
-        "diningroom",
-        "diningchairs",
-        "scandinaviandesign",
-        "interiordesign"
-      ],
-      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/476650565_122140682786561299_7876890579922741794_n.jpg",
-      "cdn_thumbnail": null,
-      "children": []
     }
   ],
   "followers": 326,
-  "updated_at": "2026-10-28T09:03:28.285Z"
+  "updated_at": "2026-10-29T09:01:13.153Z"
 }
