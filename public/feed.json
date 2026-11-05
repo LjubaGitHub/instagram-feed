@@ -1,6 +1,31 @@
 {
   "posts": [
     {
+      "id": "17979939063134784",
+      "username": "nordinahomeie",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfUrEIGD63i/",
+      "timestamp": "2026-11-04T14:29:05+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_text": "Make yourself at home at the desk: the Dinamo office chair helps your working day feel smoother. Now’s the time to choose it as part of our Black Friday offer. It pairs plush cushioning with breathable black vegan leather for comfort through long hours. The armless shape gives you room to move, while full adjustability, a chrome base and smooth-glide wheels keep your workspace practical and sleek. Made for focused days at home or in the office. Find it in stock now at nordinahome.ie.",
+      "caption_tags": [
+        "NordinaHome",
+        "OfficeChair",
+        "HomeOffice",
+        "VeganLeather",
+        "ModernOffice",
+        "WorkFromHome"
+      ],
+      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/886400620_17955844050326494_813235105474976026_n.jpg",
+      "cdn_thumbnail": null,
+      "children": [
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/886400620_17955844050326494_813235105474976026_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/883120100_17955844059326494_4173348758717727390_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/885671047_17955844041326494_7055026232418502107_n.jpg"
+      ]
+    },
+    {
       "id": "18644721325033762",
       "username": "nordinahomeie",
       "media_type": "CAROUSEL_ALBUM",
@@ -1418,30 +1443,8 @@
       "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/AQNkts2WtZUjYudki2nsL5SBHsgDoGCq3TfgZxNegMNP5x7z8kGX9GjVEDz-xazar4QkqgD0YfA5gKd_-Ca9mrHOJ9c81wLtwiSC9Go.mp4",
       "cdn_thumbnail": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/thumbnail/483102195_17868732237326494_2237704568011961637_n.jpg",
       "children": []
-    },
-    {
-      "id": "18079234381711948",
-      "username": "nordinahomeie",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DG0Y0dJt0eJ/",
-      "timestamp": "2025-03-05T13:00:27+0000",
-      "like_count": 6,
-      "comments_count": 0,
-      "caption_text": "This is exactly what you need for your home office! 😍\n\nOur Laguna high-back chair in white and a matching standing desk - a winning combination ✨\n\nBuy your set today!",
-      "caption_tags": [
-        "nordinahome",
-        "nordinahomeireland",
-        "officechairs",
-        "standingdesk",
-        "homeoffice",
-        "office",
-        "interiordesign"
-      ],
-      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/481248557_122140683098561299_8947739506392243416_n.jpg",
-      "cdn_thumbnail": null,
-      "children": []
     }
   ],
   "followers": 326,
-  "updated_at": "2026-11-03T10:11:20.388Z"
+  "updated_at": "2026-11-05T09:58:23.881Z"
 }
