@@ -1,6 +1,32 @@
 {
   "posts": [
     {
+      "id": "18194102557395573",
+      "username": "nordinahomeie",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.instagram.com/p/DfjpUKMlZBc/",
+      "timestamp": "2026-11-10T10:02:25+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_text": "For a stretch of focused, undisturbed work, the Laguna office chair keeps comfort moving with you. It’s in our Black Friday offers too, so take a look now. Made for desks in homes across Ireland, it has a tall breathable mesh back to help keep you cool through long hours. Gentle lumbar support helps you settle in, while smooth-rolling wheels and subtle adjustments keep the working day easy. A sleek black base adds a calm, modern finish. A smart choice for days when you need to stay focused. Find it in stock now at nordinahome.ie.",
+      "caption_tags": [
+        "NordinaHome",
+        "OfficeChair",
+        "HomeOffice",
+        "MeshChair",
+        "WorkspaceDesign",
+        "ScandiInterior"
+      ],
+      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/902825909_17956778850326494_6166441823414651143_n.jpg",
+      "cdn_thumbnail": null,
+      "children": [
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/902825909_17956778850326494_6166441823414651143_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/902825671_17956778841326494_6455190342004530922_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/902825588_17956778859326494_8583837351448668840_n.jpg",
+        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/902825736_17956778871326494_1479218636938036357_n.jpg"
+      ]
+    },
+    {
       "id": "18107993795366718",
       "username": "nordinahomeie",
       "media_type": "CAROUSEL_ALBUM",
@@ -1423,32 +1449,8 @@
       "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/484130460_122142695006561299_6207600918631812341_n.jpg",
       "cdn_thumbnail": null,
       "children": []
-    },
-    {
-      "id": "18054044603326755",
-      "username": "nordinahomeie",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.instagram.com/p/DHGJSM-oTgI/",
-      "timestamp": "2025-03-12T10:31:01+0000",
-      "like_count": 5,
-      "comments_count": 0,
-      "caption_text": "Add elegance and personality to your home with the Wolfgang chair. Crafted from brown vegan leather, this chair combines stylish design with sustainability. Its unique character makes it a statement piece, perfect for the living room, office, or entryway.\n\nThe Wolfgang chair is both beautiful and comfortable – a must-have for any modern interior.",
-      "caption_tags": [
-        "nordinahome",
-        "nordinahomeireland",
-        "diningchair",
-        "diningroomdecor",
-        "scandinaviandesign"
-      ],
-      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/484076106_122142287738561299_5113250482054912756_n.jpg",
-      "cdn_thumbnail": null,
-      "children": [
-        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/484076106_122142287738561299_5113250482054912756_n.jpg",
-        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/483661172_122142287702561299_7750810440100257922_n.jpg",
-        "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/484164746_122142287732561299_8561699325804680158_n.jpg"
-      ]
     }
   ],
-  "followers": 328,
-  "updated_at": "2026-11-09T10:29:44.081Z"
+  "followers": 327,
+  "updated_at": "2026-11-10T10:32:40.419Z"
 }
