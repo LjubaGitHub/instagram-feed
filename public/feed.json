@@ -1,6 +1,27 @@
 {
   "posts": [
     {
+      "id": "17944120056394737",
+      "username": "nordinahomeie",
+      "media_type": "VIDEO",
+      "permalink": "https://www.instagram.com/reel/DgM9xMgB2TV/",
+      "timestamp": "2026-11-26T11:10:22+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_text": "The white MDF top gives the Chelsea standing desk a clean, bright start to the working day. Electric adjustment lets it move with you, so it suits the way you sit, stand and focus through the long afternoon hours at the desk. Rounded edges keep the shape soft, while the carbon steel base gives it a steady feel for everyday work. 🤍 See it now at nordinahome.ie, in stock.",
+      "caption_tags": [
+        "NordinaHome",
+        "standingdesk",
+        "homeoffice",
+        "adjustabledesk",
+        "whitefurniture",
+        "workspacedesign"
+      ],
+      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/AQOawGeteP-l2ts-zUaUu1T7QPn4qoHCOXmYj8CbQObXbl_6gG9Xft-tXjemQFWOiR4WiyqlgbDXBnBllQDdITqXeGQV-l_wm-4G38o.mp4",
+      "cdn_thumbnail": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/thumbnail/931360747_1179211848095492_4641968233703009009_n.jpg",
+      "children": []
+    },
+    {
       "id": "18092813042268400",
       "username": "nordinahomeie",
       "media_type": "CAROUSEL_ALBUM",
@@ -1432,29 +1453,8 @@
         "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/484545451_122143638956561299_3914142272022855987_n.jpg",
         "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/485307022_122143638902561299_8832962299309145007_n.jpg"
       ]
-    },
-    {
-      "id": "18083401093717558",
-      "username": "nordinahomeie",
-      "media_type": "IMAGE",
-      "permalink": "https://www.instagram.com/p/DHQSIzZP8Hz/",
-      "timestamp": "2025-03-16T09:00:48+0000",
-      "like_count": 4,
-      "comments_count": 0,
-      "caption_text": "The Morgana sofa in light pink – because who needs boring colors? 💖 Stylish, comfortable, and the perfect mix of luxury and color to brighten up any room. Soft to sit in, beautiful to look at. ✨",
-      "caption_tags": [
-        "nordinahome",
-        "nordinahomeireland",
-        "scandinanvianfurniture",
-        "livingroom",
-        "sofadesign",
-        "livingroomideas"
-      ],
-      "cdn_full": "https://furniture-gallery.b-cdn.net/instagram/nordinahome.ie/full/484279111_122142696944561299_1724717842088166330_n.jpg",
-      "cdn_thumbnail": null,
-      "children": []
     }
   ],
-  "followers": 328,
-  "updated_at": "2026-11-25T11:49:20.949Z"
+  "followers": 327,
+  "updated_at": "2026-11-26T11:36:45.719Z"
 }
